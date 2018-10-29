@@ -14,10 +14,9 @@ This project is a showcase based on [NodeJS master class tutorial](https://www.u
 * install NodeJS environment at https://nodejs.org/en
 * install MongoDB database at https://www.mongodb.com/mongodb-4.0
 * install Compass (a MongoDB client interface) at https://www.mongodb.com/download-center/compass
-* inside project folder run `npm install`
+* inside project folder run `npm install` (note: package `nodemon` is recommended to install, it tracks all file changes and makes automatic updates with no need to stop the app)
 * in your command line interface (CLI) set environment variable 'NODE_ENV' to `development` or `test` (depending on whether you want to just run the API or use tests)
 * in your CLI set environment variable 'jwtPrivateKey' to value at will, this represents private key needed to generate authentication tokens
-* note: package `nodemon` is recommende, it tracks all file changes and makes automatic updates with no need to stop the app
 * type `nodemon` or `npm test` to start the API (development or testing environment)
 
 ## Notes:
