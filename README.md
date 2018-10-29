@@ -1,6 +1,5 @@
 # Vidly
-Simple NodeJS/Express API for managing movie rentals. Project is built on NodeJS/Express framework.
-This project is a showcase based on [NodeJS master class tutorial](https://www.udemy.com/nodejs-master-class) by Mosh Hamedani. 
+Simple NodeJS/Express API for managing movie rentals. This project is a showcase based on [NodeJS master class tutorial](https://www.udemy.com/nodejs-master-class) by Mosh Hamedani. 
 
 ## Features:
 * route handling using `express`
