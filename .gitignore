@@ -8,5 +8,4 @@ coverage
 .vscode
 
 # Project logging files
-logfile.log
-uncaughtExceptions.log
+.log
