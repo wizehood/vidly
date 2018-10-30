@@ -20,6 +20,7 @@ Simple NodeJS/Express API for managing movie rentals. This project is a showcase
 
 ## Notes:
 App is deployed and can be tested via Postman (or similar HTTP client interface) at https://guarded-anchorage-27714.herokuapp.com
+
 For sure there are npm packages that get improved and published on daily basis. 
 Therefore, I am open to all suggestions on how to optimize and make this app even better.  
 
